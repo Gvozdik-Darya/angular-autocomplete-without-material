@@ -200,4 +200,3 @@ If you do love angular-ng-autocomplete I would appreciate a donation :)
 MIT
 
 
-# for-test-angular-autocomplete
